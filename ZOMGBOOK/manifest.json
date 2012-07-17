@@ -1,7 +1,7 @@
 {
   "name": "ZOMGBOOK!",
 	"description": "MAKE FACEBOOK MORE EXCITING!",
-  "version": "1.1",
+  "version": "1.2",
   "manifest_version": 2,
   "permissions": [
     "http://www.facebook.com/*", "https://www.facebook.com/*"

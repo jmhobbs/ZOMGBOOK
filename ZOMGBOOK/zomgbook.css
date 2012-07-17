@@ -1,2 +1,2 @@
-.messageBody:after, .commentBody:after { content: '!!!11!1! ZOMG!' !important; }
-.messageBody, .commentBody { text-transform: uppercase; }
+.messageBody:after, .commentBody:after, .tlTxFe:after { content: '!!!11!1! ZOMG!' !important; }
+.messageBody, .commentBody, .tlTxFe { text-transform: uppercase; }
